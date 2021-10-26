@@ -1,5 +1,5 @@
 # Site settings
-title:          Tale
+title:          The Occult Radiance
 description:    "Minimal Jekyll theme for storytellers"
 baseurl:        "/"
 url:            "https://theoccultradiance.github.io"
@@ -9,9 +9,9 @@ url:            "https://theoccultradiance.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Ro
+  url:          https://theoccultradiance.github.io
+  email:        
 
 # Build settings
 markdown:       kramdown
