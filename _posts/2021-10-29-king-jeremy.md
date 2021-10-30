@@ -31,7 +31,7 @@ The charred door creaked open, "They dare mock me again?" the Demonized King tho
 
 "Your Majesty," Merlin said, "I want to know..."
 
-"Why I raised fornicated with the Satan? Why do I operate his machinery? Why I dabbled in mystic?"
+"Why I fornicated with the Devil? Why do I operate his machinery? Why I dabbled in mystic?"
 
 "No, King Jeremy." the Demonized King could feel his eyes widen.
 
