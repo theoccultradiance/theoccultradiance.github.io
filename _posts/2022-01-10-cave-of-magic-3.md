@@ -3,6 +3,7 @@
 layout: post
 title: "The Cave of Magic - Part 3" 
 author: "Ro"
+tags: cave-of-magic
 
 ---
 
