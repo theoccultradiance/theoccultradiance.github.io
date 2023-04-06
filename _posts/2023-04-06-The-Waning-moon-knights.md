@@ -7,47 +7,6 @@ tags: Dawn
 
 ---
 
-<!-- 
-Character:
-Chief of Vigiles: Fiona
-General: Lyon
-Retired Infantrymen:
-    Stefan
-    Tobias
-    Rayko
-Infantrymen:
-    Lennard
-    Ray
-    Soros
-    Olli
-Settings:
-    A few years after the Siege of Manegard and Diana's exile
-    War is over and there been peace for last 5 years
-    The soldiers who once fought for Dawn and Diana are now getting restless and need something in their life
-    They meet up in secret
-        1. Decide to start another war
-        2. To fund their initiative they decide to shake down natives
-        3. They form an organization that will extort money from general populace and the citizens
-        4. Over time they lose track of their initial motives to creating fan the flames between Shaedgard and Dawn
-        5. They indulge themselves in luxuries of life.
-Goal:
-    Worldbuilding for Durga
-
-Plot:
-- Lyon learns about suicides by his men as they are getting frustrated and getting caught. He talks to his advisors about the reason and learns, they all were craving for war and plunder. He also learns some of his men had fallen from grace and were living on the streets.
-- Lyon orders his advisors to gather a handful of his lieutenants, both current and retired. 
-- Lyon meets the lieutenants in a bar and talks to them. 
-- Lyon and his lieutenants hatch a plan to cause distruption and push Dawn to war
-- Lyon creates a new organization, whose sole purpose it is create a steady stream of money to start a new war
-- The organization starts a small racketeering op. They shake down street vendors for protection
-- The org gets bolder as it starts shaking down citizens and nobles of Dawn
-- The Chief of Vigiles hears about this new organization
-- The Chief of Vigiles orders her men to catch this new organization
-- There's a skirmish between Vigiles and new org. New org survive as they assassinate the Chief of Vigiles and install a puppet chief who's aligned with them
- -->
-
-# The Waning Moon Knights
-
 ## Part 1
 
 Lyon woke up to a terrible headache. The weather was getting chilly and the cold breeze left his sinuses stuffed and inflamed. From his bed, he could see the Palace dome in the distance. *Hmm,* he smiled, appreciating the finer details of the dome he could distinguish even from this distance. 
