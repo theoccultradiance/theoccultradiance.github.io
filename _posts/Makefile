@@ -1,4 +1,4 @@
 git:
 	git add -A
-	git commit -m "$m"
+	git commit -m "autocommit"
 	git push -u origin master
