@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Deadly Love" 
+title: "Schoop's Shop" 
 author: "Ro"
 tags: WritingPrompts
 
